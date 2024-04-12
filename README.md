@@ -1,2 +1,1 @@
-# Voting_System_In_C-program
-Voting system in C
+#Voting System In C Program
